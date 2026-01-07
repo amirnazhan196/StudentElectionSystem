@@ -60,7 +60,7 @@
                         {"2", "Siti Nurhaliza", "2023123457", "siti@student.uitm.edu.my", "Vice President", "active", "My goal is to enhance student engagement and campus activities."},
                         {"3", "Muhammad Ali", "2023123458", "ali@student.uitm.edu.my", "Secretary", "active", "I promise transparent communication and efficient administration."},
                         {"4", "Fatimah Zahra", "2023123459", "fatimah@student.uitm.edu.my", "Treasurer", "active", "I will ensure responsible financial management and accountability."},
-                        {"5", "Hassan bin Ismail", "2023123460", "hassan@student.uitm.edu.my", "Committee Member", "active", "I am committed to supporting all student initiatives."}
+                        
                     };
                     
                     if (mockCandidates.length == 0) {
